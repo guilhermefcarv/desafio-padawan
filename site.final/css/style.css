@@ -1,0 +1,24 @@
+*{
+scroll-behavior: smooth;
+}
+
+body {
+padding-top: 56px;
+
+}
+  
+.icon-redes{
+font-size: 3rem;
+}
+
+#framework{
+
+}
+
+.fixarRodape {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
